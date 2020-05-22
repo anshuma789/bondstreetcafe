@@ -173,3 +173,10 @@ color:#29d7a3;
     border-bottom: 1px solid white ;
     padding: 10px;
 }
+.navbar-toggler:hover{
+  border:4px inset white;
+}
+.navbar-nav .mr-auto:hover{
+  border:5px solid #29d7a3;
+}
+
